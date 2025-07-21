@@ -109,7 +109,7 @@ OWNER_NAME: process.env.OWNER_NAME || "young iddriss",
      DEV: process.env.DEV || "256789966218",
 //replace with your whatsapp number    
     
-    ANTI_VV: process.env.ANTI_VV || "true",
+    ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view 
 
       ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", 
